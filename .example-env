@@ -1,5 +1,5 @@
-MONGODB_URI=mongodb+srv://Notesapp:TinyTinkerers@cluster0.eoffs7y.mongodb.net/Note
-GOOGLE_CLIENT_ID=897129821520-qqmkiud3capv77l86fq7nmrpi3hl5ql2.apps.googleusercontent.com
-GOOGLE_CLIENT_SECRET=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
+MONGODB_URI=mongodb+srv:
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
 PORT=5000
-GOOGLE_CALLBACK_URL=https://mighty-oasis-29654-67328c0bc1fa.herokuapp.com/
+GOOGLE_CALLBACK_URL=
